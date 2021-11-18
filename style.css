@@ -1,0 +1,50 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+
+
+.img1{
+	width: 100%;
+
+
+}
+.img2{
+	border-radius: 15px;
+
+}
+
+
+.p1{
+	text-align: center;
+	margin: 100px;
+}
+
+
+
+.nav{
+	
+    text-decoration: none;
+    display: inline-block;
+	color: black;
+	font-size: 10px;
+	padding-left : 500px;
+	
+}
+
+.button{
+	width: 88px;
+	height: 22px;
+	border-radius: 80px;
+	font-size:10px;
+	background-color:#FFD078;
+
+
+}
+
+.cont{
+	margin-bottom: 100px;
+	margin-top: 100px;
+}
